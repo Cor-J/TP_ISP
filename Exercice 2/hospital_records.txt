@@ -1,0 +1,401 @@
+"hospital id", "gender", "age", "zipcode", "condition"
+300336,male,65,1170,Cardiovascular Disease
+356371,female,58,1162,Flu
+333301,female,76,1170,---
+946042,female,64,1000,HIV+
+979053,male,72,1162,Diabetes
+561177,female,42,1170,---
+658395,female,36,1182,Diabetes
+836166,male,58,1197,Cardiovascular Disease
+423249,male,37,1070,Cardiovascular Disease
+935547,male,27,1162,Flu
+461446,male,42,1032,Diabetes
+446223,female,27,1040,---
+843559,female,59,1015,HIV+
+264491,male,77,1132,---
+137102,male,20,1182,HIV+
+563499,male,37,1015,Flu
+432886,male,34,1115,Cardiovascular Disease
+874621,male,49,1170,Diabetes
+904769,female,48,1162,---
+344501,female,47,1197,Diabetes
+859163,male,50,1066,---
+889125,male,72,1197,Flu
+415001,female,60,1197,Flu
+113926,male,79,1132,---
+262731,female,26,1182,---
+648331,female,70,1135,Flu
+946088,female,63,1135,Diabetes
+747529,female,36,1073,Diabetes
+277047,male,44,1040,Flu
+503275,female,52,1040,Diabetes
+385693,male,29,1032,Cardiovascular Disease
+595208,male,69,1182,Flu
+720633,male,28,1073,---
+650417,male,46,1170,---
+907735,female,74,1052,Cardiovascular Disease
+289028,female,74,1147,Flu
+710863,female,79,1147,Diabetes
+179749,male,48,1147,Flu
+103796,female,60,1032,Diabetes
+900822,female,68,1040,Cardiovascular Disease
+763539,female,54,1052,---
+774156,female,34,1066,Cardiovascular Disease
+396876,female,71,1162,Flu
+645395,female,57,1169,Flu
+613399,male,74,1032,Diabetes
+278119,male,66,1000,HIV+
+806786,female,71,1135,Flu
+622430,female,45,1015,HIV+
+773946,male,51,1066,Flu
+204996,male,56,1028,Diabetes
+116135,female,68,1070,---
+865496,female,55,1028,---
+122943,male,23,1040,---
+560965,female,30,1115,Flu
+337930,male,24,1015,Cardiovascular Disease
+757869,male,76,1032,Flu
+843893,female,37,1052,Flu
+798544,male,42,1040,Cardiovascular Disease
+759521,female,22,1169,Cardiovascular Disease
+218617,female,46,1110,Diabetes
+273494,female,67,1110,---
+893331,female,42,1115,Flu
+830556,female,46,1073,Flu
+407335,female,70,1182,Flu
+417408,female,26,1095,---
+994947,female,62,1070,Cardiovascular Disease
+308275,female,51,1197,HIV+
+753805,female,79,1182,---
+830103,male,32,1073,Cardiovascular Disease
+647038,male,57,1040,Flu
+994733,female,33,1135,Cardiovascular Disease
+317025,male,71,1040,---
+672081,male,33,1197,Flu
+586132,male,42,1070,---
+794977,male,77,1070,---
+853739,male,39,1040,---
+735975,female,41,1197,Diabetes
+584124,female,23,1028,Flu
+605058,female,46,1028,---
+623646,female,47,1040,Flu
+195867,female,58,1073,Diabetes
+267382,female,67,1073,Flu
+500880,male,48,1115,Diabetes
+652014,female,76,1052,Diabetes
+687388,male,29,1073,Cardiovascular Disease
+143490,male,39,1110,Flu
+688175,female,66,1169,Cardiovascular Disease
+275626,female,50,1169,---
+434940,male,23,1147,Flu
+272791,female,66,1052,Diabetes
+703035,male,28,1000,Diabetes
+164246,female,47,1162,Flu
+322624,male,39,1110,Cardiovascular Disease
+360956,male,20,1052,Diabetes
+533808,female,34,1162,---
+565024,male,41,1170,Flu
+446658,female,69,1066,Cardiovascular Disease
+104058,female,67,1197,Flu
+234310,female,30,1169,Diabetes
+745758,female,78,1169,---
+134324,female,28,1197,Diabetes
+208381,female,41,1132,Flu
+133340,male,29,1197,Flu
+635574,male,41,1015,Cardiovascular Disease
+258203,male,32,1073,---
+382735,male,30,1040,Cardiovascular Disease
+821093,female,21,1147,Flu
+437819,female,41,1095,Cardiovascular Disease
+527522,female,32,1052,Diabetes
+318296,female,39,1182,Diabetes
+249371,male,55,1095,Cardiovascular Disease
+256863,male,37,1162,Flu
+282780,female,55,1052,Flu
+794558,male,39,1115,Flu
+366136,male,42,1170,---
+182098,male,68,1182,Flu
+276572,female,57,1115,---
+482538,male,68,1132,---
+865602,female,26,1066,Flu
+786657,male,51,1170,HIV+
+530748,male,42,1040,Diabetes
+486716,female,73,1028,Flu
+795841,female,66,1073,---
+659140,female,54,1032,Diabetes
+882607,male,50,1132,Cardiovascular Disease
+586048,female,20,1147,---
+978110,male,60,1070,Cardiovascular Disease
+714128,male,67,1197,Diabetes
+266487,male,51,1182,Flu
+318169,male,24,1169,Cardiovascular Disease
+849222,male,45,1028,Flu
+177548,female,29,1197,Cardiovascular Disease
+417795,female,43,1132,Diabetes
+754922,female,50,1132,Diabetes
+150427,male,31,1066,Flu
+576511,male,78,1032,Flu
+399171,male,49,1115,Diabetes
+605829,male,66,1028,---
+724835,male,75,1110,Diabetes
+151179,female,51,1110,---
+615480,female,44,1040,---
+159722,male,60,1040,Flu
+461884,male,63,1015,---
+493038,male,55,1135,Flu
+418662,male,65,1132,Diabetes
+342981,male,24,1135,Diabetes
+839815,male,30,1015,Diabetes
+398144,male,40,1000,---
+766659,female,68,1073,---
+824074,male,44,1095,---
+826188,female,25,1115,Cardiovascular Disease
+286331,female,74,1000,HIV+
+484980,female,39,1132,Flu
+268810,female,33,1073,Diabetes
+995157,male,63,1162,Flu
+952356,male,42,1000,---
+609530,female,29,1066,---
+538187,male,38,1052,Cardiovascular Disease
+942376,female,58,1052,Flu
+535796,male,54,1135,Diabetes
+309075,female,54,1170,Diabetes
+359765,female,53,1110,Flu
+483334,female,53,1115,Flu
+169622,female,46,1182,Diabetes
+136434,female,57,1110,Cardiovascular Disease
+309854,female,39,1132,Flu
+774917,female,79,1110,---
+893904,female,70,1135,---
+769508,male,34,1170,HIV+
+618726,female,35,1170,Flu
+270433,female,46,1015,HIV+
+479904,female,73,1182,---
+144689,female,73,1066,Flu
+813758,male,50,1095,Flu
+816197,male,48,1073,Diabetes
+606284,female,72,1182,Diabetes
+245743,female,23,1040,Flu
+358707,male,44,1169,HIV+
+449997,female,45,1169,---
+180414,male,65,1162,---
+159850,female,29,1147,---
+465628,male,79,1147,Flu
+794825,female,70,1132,Flu
+925477,female,58,1147,---
+676521,female,29,1132,Flu
+656521,male,72,1073,---
+613856,female,47,1169,Cardiovascular Disease
+268230,male,65,1110,Flu
+164499,male,67,1135,Flu
+162753,male,49,1110,Diabetes
+744868,female,65,1169,Flu
+171344,male,57,1147,Diabetes
+713993,female,26,1070,Cardiovascular Disease
+138988,male,37,1000,HIV+
+775831,male,28,1115,Diabetes
+225861,female,48,1147,Diabetes
+833004,female,42,1015,HIV+
+155709,male,69,1147,Diabetes
+652736,male,34,1066,---
+646874,female,33,1197,Cardiovascular Disease
+160674,female,22,1132,Cardiovascular Disease
+498153,male,75,1040,Cardiovascular Disease
+336348,female,32,1052,Diabetes
+319987,male,23,1197,Diabetes
+387425,female,31,1135,Flu
+365421,male,30,1095,---
+676032,male,38,1070,Flu
+661895,female,79,1052,Cardiovascular Disease
+862829,female,55,1115,Cardiovascular Disease
+804972,female,76,1110,Flu
+523214,male,59,1052,Cardiovascular Disease
+446646,female,34,1115,Flu
+709588,male,57,1162,Cardiovascular Disease
+531922,female,56,1170,---
+902821,female,73,1169,Diabetes
+844943,male,24,1182,Diabetes
+876688,male,60,1197,Cardiovascular Disease
+286049,female,63,1110,---
+105431,female,65,1132,Diabetes
+288233,male,65,1000,---
+288504,female,45,1110,Diabetes
+945695,female,31,1110,Flu
+682810,female,62,1028,Diabetes
+431445,female,74,1066,Cardiovascular Disease
+248620,male,36,1073,Cardiovascular Disease
+696543,female,34,1052,---
+722464,female,75,1169,HIV+
+429959,male,24,1073,---
+943976,male,26,1169,Diabetes
+129210,male,48,1115,Flu
+666216,male,56,1070,Diabetes
+568117,male,60,1015,Diabetes
+524732,female,72,1147,---
+749372,female,60,1070,---
+881301,male,78,1197,---
+819316,male,66,1070,Diabetes
+166827,female,39,1110,---
+545909,male,76,1135,Flu
+537148,female,31,1066,---
+428617,female,43,1162,Cardiovascular Disease
+716877,male,74,1073,Cardiovascular Disease
+750498,female,54,1066,Flu
+956807,male,47,1197,Diabetes
+515945,female,55,1095,Cardiovascular Disease
+605633,female,46,1169,Cardiovascular Disease
+153049,male,35,1169,Diabetes
+237532,female,69,1182,Flu
+507787,male,32,1052,---
+308058,female,43,1073,Cardiovascular Disease
+247802,male,26,1135,---
+305713,male,24,1147,Flu
+485009,female,23,1070,Flu
+685072,female,41,1066,Cardiovascular Disease
+752562,male,49,1170,Diabetes
+310376,female,62,1170,Flu
+393857,male,65,1182,---
+400682,female,20,1197,---
+491857,male,26,1110,---
+582752,female,77,1000,Cardiovascular Disease
+863430,female,34,1073,Flu
+184039,male,29,1028,Diabetes
+213911,female,40,1000,HIV+
+344405,male,34,1000,Cardiovascular Disease
+438147,male,55,1015,Flu
+525791,male,31,1197,---
+345814,female,67,1032,Diabetes
+625667,female,25,1197,Flu
+576489,male,36,1066,---
+742142,female,51,1162,Diabetes
+797002,female,21,1095,Flu
+277292,female,44,1110,Diabetes
+483434,male,63,1182,Cardiovascular Disease
+243445,male,79,1028,---
+371896,male,52,1110,---
+783906,male,76,1162,---
+476175,female,39,1170,Cardiovascular Disease
+149754,female,22,1162,Cardiovascular Disease
+810609,female,42,1110,---
+675193,male,22,1066,Diabetes
+324802,female,79,1028,Cardiovascular Disease
+183658,female,36,1182,Flu
+295762,female,61,1052,Diabetes
+277258,female,58,1052,Flu
+178825,male,76,1170,Cardiovascular Disease
+217782,male,25,1147,Diabetes
+366064,female,58,1000,HIV+
+498947,male,53,1040,Flu
+803517,female,72,1095,Flu
+899697,male,37,1052,Diabetes
+698796,male,54,1170,Diabetes
+766014,female,34,1028,Diabetes
+338342,male,22,1015,Diabetes
+845092,female,33,1040,Cardiovascular Disease
+188589,male,70,1040,Flu
+773668,male,69,1028,Diabetes
+631843,female,36,1066,Cardiovascular Disease
+894363,female,65,1162,---
+169734,male,67,1032,Cardiovascular Disease
+539275,male,51,1052,Flu
+272284,female,31,1115,---
+523607,male,73,1070,Diabetes
+383206,female,73,1015,HIV+
+586975,female,20,1110,Diabetes
+889151,male,65,1032,---
+359154,female,26,1132,---
+115827,male,58,1000,HIV+
+305880,female,65,1073,Cardiovascular Disease
+415462,female,55,1135,Diabetes
+193171,male,20,1169,---
+949483,female,63,1182,---
+746734,male,29,1170,Flu
+929612,male,34,1147,Flu
+674445,female,53,1135,Cardiovascular Disease
+396055,female,68,1032,Flu
+399100,male,51,1110,Diabetes
+643223,male,68,1095,---
+176511,female,26,1162,Cardiovascular Disease
+850317,female,47,1169,Cardiovascular Disease
+321971,female,30,1095,Flu
+916665,female,72,1147,---
+439500,female,65,1040,Diabetes
+285618,male,42,1147,---
+677771,female,26,1032,Flu
+186141,male,44,1115,Cardiovascular Disease
+601561,female,53,1162,Flu
+687963,male,43,1052,---
+853516,female,75,1052,---
+535577,female,44,1032,---
+643888,female,58,1052,Diabetes
+191718,male,60,1197,Flu
+239994,female,45,1169,Cardiovascular Disease
+791028,female,20,1110,---
+648784,female,31,1070,Diabetes
+177315,male,55,1073,Cardiovascular Disease
+374551,female,59,1073,Diabetes
+206046,male,41,1095,---
+178460,female,39,1070,---
+996811,female,79,1132,---
+437676,male,38,1073,Flu
+665669,male,45,1052,Diabetes
+123725,male,54,1110,Cardiovascular Disease
+323511,male,48,1052,Diabetes
+136806,female,43,1182,---
+101750,female,73,1095,Cardiovascular Disease
+620416,female,55,1197,Flu
+343544,female,42,1000,Diabetes
+690068,male,34,1073,---
+394640,male,33,1070,---
+557943,male,20,1040,Flu
+777373,male,58,1147,---
+507501,female,43,1132,Diabetes
+822234,male,55,1073,Flu
+807861,female,47,1170,Flu
+541649,male,63,1110,---
+274269,female,52,1135,Diabetes
+552305,male,71,1132,Cardiovascular Disease
+893308,female,58,1028,Cardiovascular Disease
+907273,male,26,1135,---
+261675,female,78,1000,HIV+
+535928,female,25,1052,---
+147328,male,31,1170,Flu
+278014,female,73,1000,Flu
+410579,male,57,1073,Diabetes
+992750,female,34,1170,Flu
+686704,male,50,1197,Flu
+681814,female,23,1182,---
+294745,female,43,1052,---
+943523,male,70,1182,Cardiovascular Disease
+557092,male,37,1182,Diabetes
+397568,female,44,1182,Flu
+179174,female,32,1169,Flu
+893246,female,72,1115,---
+227536,male,32,1040,---
+340606,female,79,1000,Cardiovascular Disease
+733087,female,61,1132,Flu
+870601,female,39,1070,Diabetes
+522243,female,53,1052,Flu
+567996,male,79,1070,Diabetes
+740736,male,25,1000,Cardiovascular Disease
+892444,female,74,1110,Cardiovascular Disease
+340355,male,61,1095,Diabetes
+995667,female,61,1000,Diabetes
+695531,male,64,1169,Diabetes
+254607,female,66,1066,Diabetes
+547413,male,75,1000,Flu
+615285,male,64,1182,Flu
+264201,male,68,1169,Flu
+405352,female,55,1170,Flu
+408578,female,25,1162,Flu
+613817,male,76,1066,---
+696854,female,48,1073,Diabetes
+273062,female,67,1132,Flu
+586125,male,67,1182,Cardiovascular Disease
+797394,female,55,1000,Flu
+611006,male,67,1032,Flu
+791316,female,60,1070,---
+300650,male,68,1040,Flu
+332584,female,69,1115,---
+418432,female,41,1170,Flu
+425580,male,35,1147,Diabetes
